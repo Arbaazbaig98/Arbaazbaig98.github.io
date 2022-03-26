@@ -22,36 +22,5 @@
 
 ## Author
 
-👤 **Humaira Zaman**
+👤 **Arbaaz Baig**
 
-- GitHub: [@qwibbler](https://github.com/qwibbler)
-- Twitter: [@hmemaz](https://twitter.com/hmemaz)
-- LinkedIn: [Humaira Zaman]( www.linkedin.com/in/humaira-zaman)
-
-### With help from
-
-👤 **Fabiano Frank**
-
-- GitHub: [@fabianofrank](https://github.com/fabianofrank)
-
-👤 **Azeez Rotimi Arigbabuwo**
-
-- GitHub: [@ayebaishmo](https://github.com/ayebaishmo)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- [Template 3](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=34%3A2068)
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
